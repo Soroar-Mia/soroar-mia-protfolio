@@ -61,7 +61,7 @@ export default class Certificate extends Component {
       
       return (
         <div className='p-20 '>
-          <h2 className='text-4xl  text-info text-center mb-3'>CERTIFICATE OF ACHIEVEMENT</h2>
+          <h2 className='text-4xl  text-fuchsia-700 text-center mb-5'>CERTIFICATE OF ACHIEVEMENT</h2>
           <Slider ref={slider => (this.slider = slider)} {...settings}>
             <div className='m-3 p-3'>
             <div class="card bg-white hover:bg-purple-200  shadow-xl">

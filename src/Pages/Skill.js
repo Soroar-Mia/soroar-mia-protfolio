@@ -9,7 +9,7 @@ const Skill = () => {
                 <div>
                 <div class="card  bg-base-100 shadow-xl">
                 <div class="card-body">
-                    <h2 class=" text-center text-2xl font-bold text-fuchsia-700 pb-2">Frontend <span className='text-rose-500'> Development</span></h2>
+                    <h2 class=" text-center text-2xl font-bold text-fuchsia-700 pb-2">Front-end <span className='text-rose-500'> Development</span></h2>
                     <div className='grid  md:grid-cols-2 sm:grid-cols-2 lg:grid-cols-2 '>
                         <div >
                             <ul className='grid grid-cols-1 pl-2 font-bold'>

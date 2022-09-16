@@ -14,9 +14,9 @@ const Banner = () => {
         </div>
         <div className='sm:w-1/2 px-2'>
           <h1 className="text-5xl font-bold text-fuchsia-700 font-sans">Hi there! <br />I'm Soroar Mia</h1>
-          <p className="py-6">Always up for a challenge, I have a deep desire to excel and continuously improve in my work.</p>
+          <p className="py-6 text-xl text-blue-600">Always up for a challenge, I have a deep desire to take myself one step ahead of today.</p>
           <a href="https://drive.google.com/file/d/1x4cPTv6vPOkbE2jRkfOkQyqGhZ6mY3JP/view" class="btn btn-outline btn-warning mx-2 my-2">DOWNLOAD RESUME</a>
-          <a class="btn btn-outline btn-success mx-2">LETS TALK</a>
+          <a class="btn btn-outline btn-secondary mx-2">LETS TALK</a>
 
         </div>
         <div className="sm:w-1/2" >
