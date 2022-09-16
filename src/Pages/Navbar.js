@@ -6,7 +6,7 @@ import soroar from "../assets/soroar.png";
 const Navbar = () => {
     return (
         <div id='nav' >
-          <div class="navbar bg-fuchsia-700 text-white  ">
+          <div class="navbar bg-fuchsia-700  ">
             <div class="navbar-start">
                 <div class="dropdown">
                 <label tabindex="0" class="btn btn-ghost lg:hidden">
@@ -22,10 +22,10 @@ const Navbar = () => {
                 </ul>
                 </div>
                 <img src={soroar} className="w-10 rounded-full ring ring-primary ml-5 ring-offset-base-100 ring-offset-2 " alt=''/>
-                <a class="btn btn-ghost  normal-case text-xl ml-2 " href="#nav">Soroar Mia</a>
+                <a class="btn btn-ghost text-white  normal-case text-xl ml-2 " href="#nav">Soroar Mia</a>
             </div>
             <div class="navbar-center hidden lg:flex">
-                <ul class="menu menu-horizontal p-0 text-1xl  font-bold ">
+                <ul class="menu menu-horizontal p-0 text-1xl text-white  font-bold ">
                 <li><a  href="#nav">Home</a></li>
                 <li><a  href="#About">About</a></li>
                 <li><a  href="#Expertise">Expertise</a></li>
