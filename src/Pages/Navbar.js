@@ -22,9 +22,7 @@ const Navbar = () => {
                 </ul>
                 </div>
                 <img src={soroar} className="w-10 rounded-full ring ring-primary ml-5 ring-offset-base-100 ring-offset-2 " alt=''/>
-               
-
-                <li><a class="btn btn-ghost ml-3 normal-case text-xl" href="#nav">Soroar Mia</a></li>
+                <a class="btn btn-ghost  normal-case text-xl ml-2 " href="#nav">Soroar Mia</a>
             </div>
             <div class="navbar-center hidden lg:flex">
                 <ul class="menu menu-horizontal p-0 text-1xl  font-bold ">
