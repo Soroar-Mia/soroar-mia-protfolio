@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 const Expert = () => {
     return (
-        <div className='learn-sec pt-20' >
+        <div className='learn-sec pt-20' id='Expertise' >
             <div class="header my-0">
                 <h1 className='text-4xl'><span className='font-semibold text-blue-600'>EXPERTISE</span></h1>
             </div>

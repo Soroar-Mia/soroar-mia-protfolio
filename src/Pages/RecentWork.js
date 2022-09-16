@@ -8,7 +8,7 @@ import p6 from "../assets/p6.png";
 
 const RecentWork = () => {
     return (
-        <div className='px-20 py-20'>
+        <div className='px-20 py-20' id='RecentWork'>
             <h1 className='text-4xl text-fuchsia-700 text-center pb-7'>MY RECENT WORK</h1>
             <div class="grid  md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-3 gap-8">
                 <div>

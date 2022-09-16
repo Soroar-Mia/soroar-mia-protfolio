@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactUs = () => {
   return (
-    <div className='m-auto skilimg'>
+    <div className='m-auto skilimg' id='Contact'>
       <div class="hero min-h-screen px-10">
         <div class="hero-content flex-col lg:flex-row-reverse">
           <div class="text-center px-10  lg:text-left">

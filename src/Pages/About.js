@@ -3,7 +3,7 @@ import soroarmia from "../assets/soroar_mia_1.png";
 
 const About = () => {
     return (
-        <div>
+        <div id='About'>
 <div class="hero min-h-screen ">
   <div class="hero-content flex-col lg:flex-row">
     <div className='p-10  scale-about'><img src={soroarmia} alt="Shoes" class="max-w-sm soroar rounded-lg shadow-3xl" /></div>

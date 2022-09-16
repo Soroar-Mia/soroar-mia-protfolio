@@ -7,9 +7,10 @@ const Footer = () => {
         <div>
                 <footer className="footer justify-items-center md:justify-items-start md:px-10 lg:px-20 text-white lg:bg-gray-500 footerr py-10">
       <div className="flex gap-8 pt-4">
-        <Link to="contactUs" className="hover:underline hover:font-semibold">Contact Us</Link>
-        <Link to="about" className="hover:underline hover:font-semibold">About</Link>
-        <a target="_blank" href="https://web.programming-hero.com" rel="noReferrer" className="hover:underline hover:font-semibold">Organization</a>
+        <a  className="hover:underline hover:font-semibold" href="#nav">Home</a>
+        <a  className="hover:underline hover:font-semibold" href="#About">About</a>
+        <a  className="hover:underline hover:font-semibold" href="#Expertise">Expertise</a>
+        <a  className="hover:underline hover:font-semibold" href="#RecentWork">Recent Work</a>
       </div>
       <div className="place-self-center mt-20 md:place-self-end md:mt-0">
         <div className="flex gap-4 place-self-center md:place-self-end">

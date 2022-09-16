@@ -5,7 +5,7 @@ import soroar from "../assets/soroar.png";
 
 const Banner = () => {
     return (
-        <div className='navbarimg'>
+        <div className='navbarimg' id='Home'>
         <div className="hero px-10  navbarimg min-h-screen">
       <div className="hero-content flex-col lg:flex-row-reverse">
 
