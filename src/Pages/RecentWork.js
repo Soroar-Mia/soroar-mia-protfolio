@@ -5,6 +5,9 @@ import p3 from "../assets/p3.png";
 import p4 from "../assets/p4.png";
 import p5 from "../assets/p5.png";
 import p6 from "../assets/p6.png";
+import p7 from "../assets/p7.png";
+import p8 from "../assets/p8.png";
+import p9 from "../assets/p9.png";
 
 const RecentWork = () => {
     return (
@@ -79,6 +82,42 @@ const RecentWork = () => {
                         <div class="card-actions justify-end">
                         <a href="https://github.com/akilinjamam/coders-clinic" class="btn btn-outline btn-primary">GITHUB</a>
                         <a href="https://coders-clinic-fc76f.web.app/" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="card  bg-base-100 shadow-xl scale">
+                    <figure><img src={p7} alt="Shoes" /></figure>
+                    <div class="card-body">
+                        <h2 class="card-title">Select Best Five Player</h2>
+                        <div class="card-actions justify-end">
+                        <a href="https://github.com/Soroar-Mia/Select-Best-Five-Player" class="btn btn-outline btn-primary">GITHUB</a>
+                        <a href="https://effortless-snickerdoodle-48d55c.netlify.app" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="card  bg-base-100 shadow-xl scale">
+                    <figure><img src={p8} alt="Shoes" /></figure>
+                    <div class="card-body mb-5">
+                        <h2 class="card-title ">Bank Balance Calcuation</h2>
+                        <div class="card-actions justify-end">
+                        <a href="https://github.com/Soroar-Mia/Baper-Bank" class="btn btn-outline btn-primary">GITHUB</a>
+                        <a href="https://timely-sopapillas-6633a0.netlify.app" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="card  bg-base-100 shadow-xl scale">
+                    <figure><img src={p9} alt="Shoes" /></figure>
+                    <div class="card-body">
+                        <h2 class="card-title">News Todayc</h2>
+                        <div class="card-actions justify-end">
+                        <a href="https://github.com/Soroar-Mia/News-Todayc" class="btn btn-outline btn-primary">GITHUB</a>
+                        <a href="https://silly-mochi-063936.netlify.app" class="btn btn-outline btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                     </div>
